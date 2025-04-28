@@ -7,8 +7,6 @@ This repository demonstrates common statistical tests used in **Monitoring & Eva
 ---
 
 ## 📚 Table of Contents
-
-## 📚 Table of Contents
 - [Project Overview](#project-overview)
 - [Synthetic Dataset](#synthetic-dataset)
 - [Statistical Tests Included](#statistical-tests-included)

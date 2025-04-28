@@ -1,0 +1,201 @@
+participant_id,gender,knowledge_score_pre,knowledge_score_post,attended_awareness_sessions,diagnosis_delay_days,treatment_choice,treatment_success
+P_001,Male,50.9,67.4,Yes,162,Traditional Healer,1
+P_002,Female,47.0,57.8,Yes,91,Public Health Center,1
+P_003,Male,50.9,65.8,No,17,Public Health Center,1
+P_004,Male,30.1,60.4,No,128,Public Health Center,1
+P_005,Male,47.8,66.4,Yes,171,Public Health Center,1
+P_006,Female,53.6,72.9,Yes,108,Public Health Center,1
+P_007,Male,64.8,84.0,Yes,179,Traditional Healer,1
+P_008,Male,44.8,50.1,Yes,152,Traditional Healer,1
+P_009,Male,41.9,90.6,Yes,25,Traditional Healer,1
+P_010,Female,45.0,41.6,Yes,88,Public Health Center,1
+P_011,Male,59.2,63.2,Yes,161,Public Health Center,1
+P_012,Male,53.3,72.1,Yes,177,Public Health Center,1
+P_013,Male,44.7,68.4,Yes,29,Public Health Center,1
+P_014,Male,55.1,57.5,Yes,63,Public Health Center,1
+P_015,Female,51.0,62.5,Yes,150,Public Health Center,1
+P_016,Male,59.7,59.1,Yes,154,Public Health Center,1
+P_017,Female,43.0,57.9,Yes,156,Public Health Center,1
+P_018,Female,46.7,75.2,No,114,Public Health Center,0
+P_019,Female,46.1,69.3,Yes,49,Public Health Center,1
+P_020,Male,35.4,56.7,Yes,81,Public Health Center,1
+P_021,Female,53.0,75.8,No,84,Public Health Center,1
+P_022,Male,52.6,68.7,Yes,105,Traditional Healer,1
+P_023,Female,50.1,74.8,Yes,177,Public Health Center,1
+P_024,Female,47.7,72.6,Yes,148,Public Health Center,1
+P_025,Female,35.8,55.1,Yes,118,Public Health Center,0
+P_026,Female,45.8,58.3,No,86,Traditional Healer,0
+P_027,Female,46.6,74.0,Yes,63,Traditional Healer,1
+P_028,Female,42.0,72.3,Yes,104,Public Health Center,1
+P_029,Female,48.4,64.7,Yes,49,Public Health Center,1
+P_030,Female,54.0,66.4,Yes,71,Public Health Center,1
+P_031,Male,68.9,80.3,Yes,1,Public Health Center,1
+P_032,Male,51.7,57.9,Yes,141,Traditional Healer,1
+P_033,Female,52.6,71.6,Yes,179,Public Health Center,1
+P_034,Female,49.3,62.6,No,123,Public Health Center,1
+P_035,Female,30.8,62.4,Yes,62,Public Health Center,1
+P_036,Male,49.7,78.2,Yes,32,Public Health Center,1
+P_037,Female,50.6,74.9,Yes,158,Public Health Center,1
+P_038,Male,74.6,74.8,Yes,29,Traditional Healer,1
+P_039,Male,48.1,80.7,Yes,49,Traditional Healer,1
+P_040,Male,53.0,65.3,Yes,173,Public Health Center,0
+P_041,Male,49.7,73.2,Yes,30,Public Health Center,1
+P_042,Male,38.3,61.3,Yes,144,Public Health Center,0
+P_043,Female,61.4,68.9,Yes,168,Public Health Center,1
+P_044,Female,57.5,63.4,No,19,Public Health Center,1
+P_045,Female,57.9,66.2,Yes,18,Public Health Center,1
+P_046,Female,40.9,72.1,Yes,1,Traditional Healer,1
+P_047,Female,64.0,55.2,Yes,78,Public Health Center,1
+P_048,Male,36.0,90.1,No,115,Public Health Center,1
+P_049,Female,55.9,52.9,Yes,175,Public Health Center,1
+P_050,Female,71.9,50.4,Yes,113,Public Health Center,0
+P_051,Male,40.1,78.9,No,114,Public Health Center,0
+P_052,Female,44.3,74.5,No,166,Public Health Center,1
+P_053,Male,51.0,72.5,No,179,Public Health Center,1
+P_054,Female,45.0,72.5,Yes,63,Public Health Center,0
+P_055,Male,34.5,64.9,Yes,132,Public Health Center,0
+P_056,Female,50.7,54.2,Yes,129,Public Health Center,0
+P_057,Female,39.4,65.9,No,8,Public Health Center,1
+P_058,Male,54.7,56.9,Yes,157,Public Health Center,1
+P_059,Male,40.8,76.7,Yes,55,Public Health Center,1
+P_060,Male,65.5,63.2,Yes,103,Public Health Center,1
+P_061,Male,42.2,55.1,No,131,Public Health Center,1
+P_062,Male,46.8,61.1,Yes,32,Public Health Center,1
+P_063,Male,58.1,70.0,Yes,10,Public Health Center,1
+P_064,Male,37.7,58.2,Yes,110,Public Health Center,0
+P_065,Male,52.3,55.1,Yes,162,Traditional Healer,1
+P_066,Female,63.1,67.9,Yes,124,Public Health Center,1
+P_067,Female,33.9,67.9,Yes,87,Public Health Center,1
+P_068,Male,51.8,58.9,Yes,55,Public Health Center,1
+P_069,Female,52.6,59.3,Yes,32,Public Health Center,1
+P_070,Female,57.8,67.8,Yes,178,Traditional Healer,1
+P_071,Female,37.6,47.6,Yes,135,Public Health Center,1
+P_072,Female,36.8,48.1,Yes,93,Public Health Center,1
+P_073,Male,55.2,56.4,Yes,8,Public Health Center,1
+P_074,Female,53.0,62.4,Yes,65,Public Health Center,1
+P_075,Male,52.5,68.7,Yes,57,Public Health Center,1
+P_076,Female,53.5,82.7,Yes,67,Traditional Healer,1
+P_077,Female,43.2,75.3,Yes,72,Public Health Center,1
+P_078,Female,52.3,63.1,No,54,Public Health Center,0
+P_079,Male,52.9,64.8,Yes,67,Traditional Healer,0
+P_080,Female,42.9,53.0,No,51,Public Health Center,1
+P_081,Male,68.7,64.8,Yes,97,Public Health Center,1
+P_082,Female,54.7,61.5,Yes,92,Public Health Center,1
+P_083,Male,38.1,68.9,No,8,Traditional Healer,1
+P_084,Female,56.6,55.1,Yes,162,Public Health Center,1
+P_085,Male,40.3,71.2,Yes,35,Public Health Center,1
+P_086,Male,57.9,83.4,Yes,96,Public Health Center,1
+P_087,Female,61.6,63.7,Yes,88,Public Health Center,1
+P_088,Male,41.8,69.8,No,78,Public Health Center,1
+P_089,Female,59.6,73.3,No,32,Public Health Center,1
+P_090,Female,54.1,60.2,No,120,Public Health Center,1
+P_091,Female,58.2,67.7,Yes,46,Public Health Center,1
+P_092,Female,69.0,65.2,No,144,Public Health Center,1
+P_093,Female,47.5,66.2,No,165,Public Health Center,0
+P_094,Female,42.5,55.7,Yes,142,Public Health Center,1
+P_095,Female,41.1,65.3,Yes,55,Public Health Center,1
+P_096,Female,41.8,71.0,No,176,Public Health Center,1
+P_097,Female,49.2,82.4,Yes,7,Public Health Center,1
+P_098,Female,53.4,76.5,No,74,Public Health Center,0
+P_099,Female,52.8,90.8,Yes,7,Public Health Center,1
+P_100,Male,58.3,55.8,No,161,Traditional Healer,1
+P_101,Male,50.1,75.5,Yes,151,Public Health Center,1
+P_102,Female,64.5,67.2,Yes,85,Public Health Center,0
+P_103,Female,47.4,91.3,Yes,147,Public Health Center,0
+P_104,Female,77.2,55.3,No,112,Traditional Healer,1
+P_105,Female,56.3,54.9,Yes,125,Public Health Center,1
+P_106,Female,41.4,57.8,Yes,147,Public Health Center,1
+P_107,Female,39.3,39.5,Yes,36,Public Health Center,1
+P_108,Female,54.8,58.7,No,29,Public Health Center,1
+P_109,Female,47.8,55.9,Yes,82,Traditional Healer,1
+P_110,Male,57.1,66.8,No,2,Public Health Center,1
+P_111,Female,54.7,69.1,Yes,129,Public Health Center,1
+P_112,Male,49.3,87.5,Yes,47,Public Health Center,1
+P_113,Female,41.5,76.4,Yes,148,Traditional Healer,1
+P_114,Female,34.9,58.1,Yes,11,Traditional Healer,0
+P_115,Male,45.5,54.2,No,130,Public Health Center,1
+P_116,Female,58.6,70.9,Yes,119,Traditional Healer,1
+P_117,Male,52.1,49.2,Yes,140,Traditional Healer,0
+P_118,Female,37.5,87.0,No,20,Public Health Center,1
+P_119,Female,51.7,79.2,Yes,5,Public Health Center,1
+P_120,Male,53.9,59.4,Yes,37,Public Health Center,1
+P_121,Female,41.2,44.4,No,166,Traditional Healer,1
+P_122,Male,51.5,81.2,Yes,137,Public Health Center,0
+P_123,Female,50.6,63.6,Yes,53,Traditional Healer,1
+P_124,Male,38.6,79.9,No,172,Public Health Center,1
+P_125,Male,53.6,45.9,Yes,99,Public Health Center,1
+P_126,Female,55.6,57.8,Yes,86,Public Health Center,1
+P_127,Female,60.8,65.1,Yes,108,Public Health Center,1
+P_128,Male,60.5,65.6,No,24,Traditional Healer,0
+P_129,Female,36.2,59.6,Yes,81,Traditional Healer,1
+P_130,Female,40.6,72.5,Yes,158,Traditional Healer,0
+P_131,Female,55.2,52.2,No,120,Public Health Center,1
+P_132,Male,55.1,63.3,No,59,Public Health Center,1
+P_133,Male,55.2,66.4,Yes,128,Public Health Center,1
+P_134,Male,88.5,71.2,Yes,114,Public Health Center,1
+P_135,Male,55.7,73.5,Yes,115,Public Health Center,0
+P_136,Male,61.4,51.5,No,14,Public Health Center,0
+P_137,Male,59.5,46.6,Yes,9,Public Health Center,1
+P_138,Male,56.5,80.3,Yes,40,Public Health Center,1
+P_139,Male,46.8,69.0,No,25,Traditional Healer,1
+P_140,Male,57.6,56.0,No,103,Traditional Healer,1
+P_141,Female,42.3,83.6,Yes,22,Public Health Center,1
+P_142,Male,47.6,66.4,No,4,Public Health Center,1
+P_143,Female,45.1,79.2,Yes,154,Public Health Center,1
+P_144,Female,50.8,65.8,No,29,Public Health Center,1
+P_145,Female,73.1,89.7,Yes,109,Traditional Healer,1
+P_146,Male,31.3,86.1,Yes,98,Traditional Healer,1
+P_147,Male,56.9,62.0,No,37,Public Health Center,1
+P_148,Male,33.9,76.7,Yes,75,Public Health Center,1
+P_149,Male,45.3,72.7,Yes,70,Public Health Center,1
+P_150,Female,60.9,81.4,No,146,Public Health Center,1
+P_151,Male,50.6,53.4,No,128,Public Health Center,1
+P_152,Male,39.2,73.2,Yes,85,Traditional Healer,1
+P_153,Male,42.8,77.7,Yes,42,Public Health Center,1
+P_154,Male,56.8,43.9,Yes,100,Public Health Center,1
+P_155,Male,42.7,50.8,Yes,41,Traditional Healer,1
+P_156,Female,52.2,40.5,Yes,166,Public Health Center,1
+P_157,Male,50.5,61.8,Yes,34,Public Health Center,0
+P_158,Female,43.5,73.6,No,17,Public Health Center,1
+P_159,Male,71.4,83.0,Yes,165,Public Health Center,1
+P_160,Female,56.3,65.9,Yes,153,Public Health Center,1
+P_161,Male,29.7,84.5,Yes,122,Public Health Center,1
+P_162,Male,51.9,48.4,No,76,Public Health Center,1
+P_163,Female,43.4,44.6,Yes,87,Traditional Healer,1
+P_164,Female,58.5,64.3,Yes,117,Public Health Center,1
+P_165,Female,42.1,69.6,Yes,106,Traditional Healer,1
+P_166,Male,48.9,64.6,Yes,86,Traditional Healer,1
+P_167,Female,55.0,40.2,Yes,27,Public Health Center,1
+P_168,Male,58.7,63.9,No,57,Traditional Healer,1
+P_169,Male,38.0,49.3,No,31,Public Health Center,1
+P_170,Female,46.7,73.0,Yes,134,Traditional Healer,1
+P_171,Female,45.3,69.4,Yes,168,Public Health Center,1
+P_172,Male,43.5,53.7,No,98,Public Health Center,1
+P_173,Male,67.7,58.8,No,12,Public Health Center,0
+P_174,Female,54.0,52.3,Yes,53,Traditional Healer,1
+P_175,Female,37.4,64.2,Yes,138,Public Health Center,1
+P_176,Female,59.2,76.5,Yes,173,Public Health Center,1
+P_177,Male,71.2,53.2,Yes,145,Traditional Healer,1
+P_178,Male,60.3,71.0,No,154,Public Health Center,1
+P_179,Male,34.8,58.6,No,122,Public Health Center,1
+P_180,Male,45.2,55.5,No,46,Public Health Center,1
+P_181,Male,62.7,63.7,Yes,64,Public Health Center,1
+P_182,Male,42.9,52.6,Yes,130,Public Health Center,1
+P_183,Female,54.4,58.4,No,54,Traditional Healer,1
+P_184,Male,57.7,50.6,No,107,Public Health Center,1
+P_185,Male,40.7,88.6,Yes,51,Public Health Center,1
+P_186,Male,49.4,65.4,No,36,Public Health Center,1
+P_187,Female,17.6,56.6,No,115,Traditional Healer,1
+P_188,Male,39.8,67.6,Yes,26,Traditional Healer,1
+P_189,Male,47.5,63.7,Yes,29,Public Health Center,0
+P_190,Female,37.5,62.3,Yes,149,Traditional Healer,1
+P_191,Male,66.3,72.4,Yes,11,Public Health Center,1
+P_192,Male,35.7,74.1,Yes,40,Traditional Healer,1
+P_193,Male,45.6,58.6,No,11,Public Health Center,1
+P_194,Male,51.3,58.1,Yes,164,Traditional Healer,1
+P_195,Male,64.4,61.7,Yes,113,Public Health Center,1
+P_196,Female,35.6,37.4,Yes,39,Public Health Center,1
+P_197,Female,61.6,46.8,Yes,54,Public Health Center,1
+P_198,Female,50.1,81.4,No,98,Public Health Center,1
+P_199,Male,40.2,84.7,Yes,55,Public Health Center,1
+P_200,Male,54.6,62.0,Yes,111,Public Health Center,1

@@ -8,7 +8,9 @@ This repository demonstrates common statistical tests used in **Monitoring & Eva
 
 ## 📚 Table of Contents
 - [Project Overview](#project-overview)
+  
 - [Synthetic Dataset](#synthetic-dataset)
+  
 - [Statistical Tests Included](#statistical-tests-included)
   
    [1. Independent T-Test](#1-independent-t-test)
@@ -28,8 +30,11 @@ This repository demonstrates common statistical tests used in **Monitoring & Eva
    [8. Logistic Regression (Binary Outcomes)](#8-logistic-regression-binary-outcomes)
   
 - [Visualizations](#visualizations)
+  
 - [Installation](#installation)
+  
 - [Usage](#usage)
+  
 - [License](#license)
 ---
 
@@ -107,7 +112,7 @@ Libraries used:
 - `Tableau public`
   
   ### Dashboard
-  [https://public.tableau.com/views/WestPokotFamilyPlaniningUptakeDummyDatavisualization/WestPokotUptakeofFamilyPlanningServices?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+  [link](https://public.tableau.com/views/WestPokotFamilyPlaniningUptakeDummyDatavisualization/WestPokotUptakeofFamilyPlanningServices?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 

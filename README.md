@@ -121,6 +121,18 @@ GROUP BY
 ### 1. Independent T-Test
 - Compare mean diagnosis delay days between **males** and **females**.
 - Function used: `ttest_ind()`
+- Independent T-Test: Compare diagnosis delay days between males and females;
+  
+  For Example
+---
+  
+```python
+male_delay = df[df['gender'] == 'Male']['diagnosis_delay_days']
+female_delay = df[df['gender'] == 'Female']['diagnosis_delay_days']
+t_stat, p_val = stats.ttest_ind(male_delay, female_delay)
+print("\n1. Independent T-Test:")
+print(f"T-Statistic = {t_stat:.4f}, P-Value = {p_val:.4f}")
+```
 
 ### 2. Chi-Square Test
 - Analyze relationship between **gender** and **choice of treatment facility**.

@@ -9,7 +9,14 @@
 This repository demonstrates common statistical tests used in **Monitoring & Evaluation (M&E)** and **Research** using Python, featuring a **randomly generated synthetic dataset** simulating real-world health research conditions.
 
 ---
+### Tools
 
+- Excel-Data cleaning
+- MySQL - Analyis
+- JuypterNotebooks
+- Tableau - Dashbords/Reports
+
+--- 
 ## 📚 Table of Contents
 - [Project Overview](#project-overview)
   
@@ -64,7 +71,51 @@ Using Python libraries (`pandas`, `scipy.stats`, `statsmodels`, `seaborn`, `matp
   - `treatment_success` (1 = Success, 0 = Failure)
 
 ---
+## Expolatory Data Analysis
+Snippets of The data in MySql Workbench.
+---
+   1. Data Preview
+``` sql
+SHOW TABLES;
+select *
+from West_pokot_leishmaniasis_study
+limit 100;
+```
+  2. Check for Missing Data
+```sql
+SELECT *
+FROM West_pokot_leishmaniasis_study
+WHERE 
+    participant_id IS NULL OR
+    gender IS NULL OR
+    knowledge_score_pre IS NULL OR
+    knowledge_score_post IS NULL OR
+    attended_awareness_sessions IS NULL OR
+    diagnosis_delay_days IS NULL OR
+    treatment_choice IS NULL OR
+    treatment_success IS NULL;
+```
+  
+  3. Compare Average Knowledge Scores (Pre vs Post Awareness Sessions)
+``` sql
+SELECT 
+    AVG(knowledge_score_pre) AS avg_knowledge_score_pre,
+    AVG(knowledge_score_post) AS avg_knowledge_score_post
+FROM 
+    West_pokot_leishmaniasis_study;
+```
 
+  4. Correlation Between Awareness Sessions and Treatment Success
+
+```sql
+SELECT 
+    attended_awareness_sessions,
+    AVG(treatment_success) AS treatment_success_rate
+FROM 
+   West_pokot_leishmaniasis_study
+GROUP BY 
+    attended_awareness_sessions;
+```
 ## 🧪 Statistical Tests Included
 
 ### 1. Independent T-Test
@@ -109,6 +160,9 @@ All notebooks include visualizations such as:
 - 📊 **Boxplots** (group comparisons by gender)
 - 📉 **Scatter Plots** (correlations between sessions attended and knowledge gain)
 - 🗂️ **Bar Charts** (treatment success rates)
+
+  ![image](https://github.com/user-attachments/assets/10f2f947-679f-40c3-9a1f-5cf4abfd9b05)
+
 
 Libraries used:
 - `matplotlib`

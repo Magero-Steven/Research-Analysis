@@ -1,4 +1,8 @@
 # Statistical Hypothesis Testing for Research and Monitoring & Evaluation Projects
+
+![WhatsApp Image 2025-04-29 at 12 33 30_6325c344](https://github.com/user-attachments/assets/e46c5489-1af0-4726-b27d-3e2084e536d5)
+
+
 ---
 **Project:** Analysis of a Synthetic Dataset based on the study *"Gender Inclusive Approaches for Leishmaniasis Treatment in West Pokot County"*.
 
